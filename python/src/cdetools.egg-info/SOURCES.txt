@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/cdetools/__init__.py
+src/cdetools/cde_loss.py
+src/cdetools/cdf_coverage.py
+src/cdetools/hpd_contours.py
+src/cdetools/hpd_coverage.py
+src/cdetools/plot_utils.py
+src/cdetools.egg-info/PKG-INFO
+src/cdetools.egg-info/SOURCES.txt
+src/cdetools.egg-info/dependency_links.txt
+src/cdetools.egg-info/not-zip-safe
+src/cdetools.egg-info/requires.txt
+src/cdetools.egg-info/top_level.txt
